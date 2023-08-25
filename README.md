@@ -17,11 +17,3 @@ A user-friendly game to enhance user's memory.
 3. Open mainGame.html with Chrome or any browser.
 
 4. Start Playing.
-
-# Screenshots
-- When a player turns over two cards that match, those cards get fixed.
-![](./screenshots/matched.png)
-
-- When a player turns over two cards that do not match, those cards are turned face down again (in the same position).
-![](./screenshots/not_matched.png)
-![](./screenshots/back_to_original.png)
